@@ -51,25 +51,6 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.material.icons.filled.ExpandLess
 import androidx.compose.ui.res.dimensionResource
 
-
-@Composable
-fun Search( //search text field on topbar
-    searchText: String,
-    onSearchTextChanged: (String) -> Unit
-) {
-    TextField(
-        label = { Text("Search for Recipes...") },
-        value = searchText,
-        onValueChange = { newText ->
-            onSearchTextChanged(newText)
-        },
-        modifier = Modifier
-            .fillMaxWidth()
-            .padding(16.dp)
-    )
-}
-
-
 @Composable
 fun RecipeApp(
 ) {
