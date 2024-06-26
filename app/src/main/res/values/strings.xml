@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">RecipeBook</string>
+    <string name="welcome">Recipes by Ferdinand</string>
+    <string name="recipe1">Adobo</string>
+    <string name="recipe2">Sinigang</string>
+    <string name="recipe3">Pares</string>
+    <string name="recipe4">Dinuguan</string>
+    <string name="recipe5">Menudo</string>
+    <string name="recipe6">Giniling</string>
+    <string name="recipe_list">Recipe List</string>
+    <string name="recipe">Recipe:</string>
+    <string name="expand_button_content_description">See more or less information about the recipe.</string>
+
+    <!--RECIPE FOR ADOBO-->
+    <string name="adobo_recipe">
+        Start by marinating the chicken in soy sauce and garlic. This process usually
+        takes 1 hour to 12 hours depending on how flavorful you want the dish to be.
+        The next step is to separate the chicken from the marinade. Make sure to set the marinade
+        aside because it will be used later on. Pan-fry the chicken pieces for 1 minute per side.
+        Pour marinade into the pot and add water. Let it boil. This process takes 20 to 25 minutes
+        depending on the quality of the chicken. After stewing, add vinegar and continue to
+        cook for another 10 minutes and adding sugar and salt.
+    </string>
+
+    <!--RECIPE FOR SINIGANG-->
+    <string name="sinigang_recipe">
+        Traditional sinigang is cooked plainly by boiling all the ingredients together.
+        Start by pouring the tamarind broth into a cookware of your choice. Deep and wide pots are perfect for this.
+        Boil the liquid and then add some onion and tomato. This will add flavor to the broth.
+        This is also the proper time to add the pork belly. Make sure to cover your pot so that the liquid can boil quickly.
+        The first batch of veggies to add are daikon radish and eggplants. Some people also add their string beans at this point
+        if they want it to be extra soft later on. I prefer mine to be a bit crisp. After 5 minutes of cooking in low heat (above simmering temp),
+        add the long green peppers, string beans, remaining tomatoes, and okra and continue cooking for 3 minutes.
+    </string>
+
+    <!--RECIPE FOR PARES-->
+    <string name="pares_recipe">
+        It is best to always have the beef stock ready before cooking pares. This is the soup that goes with it.
+        Cooking beef pares is easier when using a pressure cooker. This helps tenderize the beef quickly.
+        Start by sauteing onion, garlic, and ginger. These aromatics brings-in flavor and aroma to your dish.
+        Make sure that the onion softens. This makes it sweeter. Add the beef and continue to saute until it browns.
+        Pour-in water and then add a piece of Knorr Beef Cube and 2 pieces of star anise. Pressure cook for 15 minutes.
+        You can cook it longer up to 20 minutes, but make sure that the beef is still intact. Add sugar and season with salt and ground black pepper.
+    </string>
+
+    <!--RECIPE FOR DINUGUAN-->
+    <string name="dinuguan_recipe">
+        Start by sautéing garlic and onion. Make sure that the onion softens before adding the pork. Saute the meat until it turns light brown.
+        Cook it until it turns light brown. Feel free to add innards. Tenderize the pork by boiling. Pour water, cover the pot,
+        and cook in low heat until tender. Adding a piece of pork cube (bouillon) is a big help to make the dish taste meatier.
+        Pour the pork blood while stirring and cook it for at least 8 minutes to make sure that it is fully done. Add vinegar and the remaining ingredients.
+    </string>
+
+    <!--RECIPE FOR MENUDO-->
+    <string name="menudo_recipe">
+        Combine the pork, soy sauce and lemon in a bowl. Mix well and let it stay for at least 1 hour. It will be better to store
+        the bowl inside the refrigerator while you marinate to avoid contamination. Make sure to cover the bowl before doing this.
+        Take the pork out of the fridge 15 minutes before cooking. Start to saute the garlic and onion.
+        Once the onions are soft, add the marinated pork and cook until it browns. Add tomato sauce (you can also use crushed tomatoes),
+        water (or beef broth), and bay leaves. We are using dried bay leaves for this recipe. Cover and simmer until
+        the meat gets tender — which is usually 40 to 60 minutes depending on the quality of the meat. Once the meat is done,
+        it is time to add the sliced liver. You can add the liver fresh or you can saute it first in ginger and garlic to make it
+        less gamey. Add the veggies after this step and continue to cook for a few more minutes.
+    </string>
+
+    <!--RECIPE FOR GINILING-->
+    <string name="giniling_recipe">
+        Heat a cooking pot and pour-in the cooking oil.
+        When the oil is hot enough, put-in the garlic and sauté until the color turns light brown.
+        Add the onions and sauté until the texture becomes soft.
+        Put-in the ground pork and cook for 5 minutes.
+        Add the beef or pork cube, tomato sauce, and water and let boil. Simmer for 20 minutes.
+        Put the carrots and potatoes in then stir until every ingredient is properly distributed. Simmer for 10 to 12 minutes.
+        Add salt, ground black pepper, and sugar then stir.
+        Put in the boiled eggs and turn off the heat.
+    </string>
+</resources>
